@@ -1,2 +1,2 @@
 # terraria-inventory
-A clone of Terrarias inventory system in Unity
+A Terraria inspired inventory system in Unity
